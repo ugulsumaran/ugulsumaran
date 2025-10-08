@@ -1,29 +1,12 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=👋+Hello+World,+I'm+Gülsüm!;🌸+Goal:+Be+a+Data+Scientist;💻+Building+Creative+Things" alt="Typing SVG" />
-</p>
-
-
-<p align="center">
-  🌷 *“Code like you draw a story.”* 🌷
-</p>
-
-
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/3RTvXBt/anime-girl-coding-desk.gif" width="100%" alt="anime coding banner">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=👋+Hello+World,+I'm+Gülsüm!;🌸+Goal:+Be+a+Data+Scientist;💻Love+is+code" alt="Typing SVG" />
 </p>
 
 
 ### 💡 Currently Learning
 - Machine Learning Algorithms
 
-### ⚙️ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,matplotlib,git,github,vscode" />
-</p>
-
----
 
 ### 📈 GitHub Journey  
 <p align="center">
