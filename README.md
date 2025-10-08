@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[🗓 New Year Countdown](https://dday-widget.minung.dev/widget?text=New%20Year%20%F0%9F%99%82&date=2026-01-01&startDate=2025-01-01&theme=theme2)
+(https://dday-widget.minung.dev/widget?text=New%20Year%20%F0%9F%99%82&date=2026-01-01&startDate=2025-01-01&theme=theme2)
 
