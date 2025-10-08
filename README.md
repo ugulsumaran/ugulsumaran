@@ -4,21 +4,6 @@
 </p>
 
 
-### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ugulsumaran&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugulsumaran&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
-### 🕒 Countdown to 2026  
-<p align="center">
-  <img src="https://dday-widget.minung.dev/widget?text=New%20Year%20🎉&date=2026-01-01&startDate=2025-01-01&theme=theme2" width="350"/>
-</p>
-
----
-
 <p align="center">
   🌷 *“Code like you draw a story.”* 🌷
 </p>
