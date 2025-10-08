@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=👋+Hello+World,+I'm+Gülsüm!;🌸+Anime-Loving+Developer;💻+Building+Creative+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=👋+Hello+World,+I'm+Gülsüm!;🌸+Goal:+Be+a+Data+Scientist;💻+Building+Creative+Things" alt="Typing SVG" />
 </p>
 
 ---
