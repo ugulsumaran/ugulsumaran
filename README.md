@@ -33,16 +33,9 @@ Here are some ideas to get you started:
 ✨ Passionate about **AI, Data Science, and Creative Coding**  
 💖 Love bringing logic and art together  
 📚 Currently learning **Machine Learning**  
-🎀 I enjoy watching anime and designing colorful UIs  
 
 ---
 
-### 🧠 Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,html,css,js,react,git,github,vscode" />
-</p>
-
----
 
 ### 📈 GitHub Stats  
 <p align="center">
@@ -69,24 +62,9 @@ Here are some ideas to get you started:
   <img src="https://i.ibb.co/3RTvXBt/anime-girl-coding-desk.gif" width="100%" alt="anime coding banner">
 </p>
 
-<h1 align="center">✨ Hi there, I'm Gülsüm 👩🏻‍💻</h1>
-<h3 align="center">Coding dreams and sketching logic — one line at a time 🌸</h3>
-
----
-
-### 🌼 About Me  
-💫 Data Science & ML enthusiast who believes in the magic hidden in numbers.  
-🎨 Anime art admirer, design lover, and organized chaos curator.  
-📚 Always exploring: **GANs**, **Reinforcement Learning**, and **Style Transfer**.
-
----
 
 ### 💡 Currently Learning
-- Generative Adversarial Networks (GANs)  
-- Deep Reinforcement Learning  
-- Anime Style Transfer with Neural Networks  
-
----
+- Machine Learning Algorithms
 
 ### ⚙️ Tech Stack  
 <p align="center">
